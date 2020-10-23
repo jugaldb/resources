@@ -73,6 +73,8 @@ Data Structure is a way of collecting and organising data in such a way that we 
 - [ ] [Algo Deck](https://github.com/teivah/algodeck/) - Collection of +200 algorithmic cards.
 - [ ] :page_with_curl: [Big-O-CheatSheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms.
 - [ ] [Codechef's topic-wise problems](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+- [ ] [Site for all algorithms](https://cp-algorithms.com/)
+- [ ] [Introdution to algorithms(Abdul Bari)](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)
 
 ***
 
@@ -87,6 +89,7 @@ Data Structure is a way of collecting and organising data in such a way that we 
 - [AtCoder](https://atcoder.jp/)
 - [Interviewbit](https://www.interviewbit.com/)
 - [Topcoder](https://www.topcoder.com/)
+- [HackerBlocks](https://hack.codingblocks.com/)
 
 *** 
 
